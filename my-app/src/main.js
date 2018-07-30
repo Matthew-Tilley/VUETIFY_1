@@ -13,4 +13,4 @@ new Vue({
 
 new Vue({
   render: h => h(Test)
-})
+}).$mount("#tester")
